@@ -1,0 +1,10 @@
+.size {
+    font-size: 20px !important;
+    color: white !important;
+    gap: 10px !important;
+}
+.logo{
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+  }
